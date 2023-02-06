@@ -2,7 +2,7 @@
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KyoungWonGithub!&fontSize=70" />	
 </div>
 <div align=center>
-	<Using Language&Platform>
+	<p>Using Language&Platform</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
@@ -39,7 +39,7 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact">
 	<img src="https://github-readme-stats.vercel.app/api?username=kw99j10&show_icons=true">
 
-<br>
-<p>🏆 Baekjoon</p>
+<br><br><br>
+<p>🏆 Baekjoon Rank </p>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkdlsvlrtu)](https://solved.ac/fkdlsvlrtu)
 </div>
