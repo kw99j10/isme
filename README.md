@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=KyoungWonGithub!&fontSize=70" />	
+	<h1>Profile of Kyoung Won Jung</h1>	
 </div>
 <div align=center>
 	<p>Using Language&Platform</p>
@@ -25,7 +25,7 @@
 	<p>Using Tools</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/IntelliJ%20IDE-2C2255?style=flat&logo=IntelliJ IDEA&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ %20IDEA-2C2255?style=flat&logo=IntelliJ IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
@@ -41,6 +41,5 @@
 
 <br><br><br>
 <p>🏆 Baekjoon Rank </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkdlsvlrtu)](https://solved.ac/fkdlsvlrtu)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkdlsvlrtu)](https://solved.ac/fkdlsvlrtu/)
 </div>
