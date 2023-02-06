@@ -34,8 +34,8 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fkdlsvlrtu&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=fkdlsvlrtu&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=kw99j10&show_icons=true">
 
 <br>
 <p>🏆 Baekjoon</p>
