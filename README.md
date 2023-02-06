@@ -36,10 +36,10 @@
 
 <div align=center>
 	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact">
-	<img src="https://github-readme-stats.vercel.app/api?username=kw99j10&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact&theme=highcontrast">
+	<img src="https://github-readme-stats.vercel.app/api?username=kw99j10&show_icons=true&theme=dracula">
 
 <br><br><br>
 <p>🏆 Baekjoon Rank </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkdlsvlrtu)](https://solved.ac/fkdlsvlrtu/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fkdlsvlrtu)](https://solved.ac/fkdlsvlrtu)
 </div>
