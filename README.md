@@ -25,7 +25,7 @@
 	<p>Using Tools</p>
 </div>
 <div align=center>
-	<img src="https://img.shields.io/badge/IntelliJ%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" />
+	<img src="https://img.shields.io/badge/IntelliJ%20IDE-2C2255?style=flat&logo=IntelliJ IDEA&logoColor=white" />
 	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
 	<br>
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
@@ -34,8 +34,12 @@
 <br>
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=kw99j10&show_icons=true">
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kw99j10&layout=compact">
+</div>
+<div align=center>
+	<img src="https://github-readme-stats.vercel.app/api?username=kw99j10&show_icons=true">
+</div>
 
 <br>
 <p>🏆 Baekjoon</p>
